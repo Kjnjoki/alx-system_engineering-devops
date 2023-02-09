@@ -1,1 +1,1 @@
-permission to execute
+permissions to other users only
