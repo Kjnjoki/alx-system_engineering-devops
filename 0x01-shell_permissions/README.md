@@ -1,1 +1,1 @@
-file mode
+same permissions
