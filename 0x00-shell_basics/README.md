@@ -1,1 +1,1 @@
-move files to /tmp/u
+delete files
