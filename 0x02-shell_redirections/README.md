@@ -1,1 +1,1 @@
-current state of directory
+state of directory
